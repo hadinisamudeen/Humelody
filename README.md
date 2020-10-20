@@ -12,6 +12,7 @@ The aim of this project is to aid new and upcoming musicians who have little kno
 
 As a music lover and a coding enthusiast, I plan on making this project available to TUD and continue working on it so I could hopefully give the potential music producers a helping hand by providing something they need, that wasn’t thought about.
  
-######COMMIT UPDATE 20/10/2020 
-Now you can view the code files through the "Code Files" folder, consisting of the YIN algorithm (implemented on C++, taliored for Humelody), a Default oscillator, and the code to the working of the project (note detection, setting timestamps, convertion to MIDI files, etc)
+##### COMMIT UPDATE 20/10/2020:
 
+* Now you can view the code files through the "Code Files" folder, consisting of the YIN algorithm (implemented on C++, taliored for Humelody), a Default oscillator, and the code to the working of the project (note detection, setting timestamps, convertion to MIDI files, etc)
+* The video to the working of the project is available in the zipped file.
