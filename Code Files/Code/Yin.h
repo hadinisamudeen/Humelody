@@ -36,6 +36,7 @@ public:
 
 	}
 	
+	
 	void printYin()
 	{
 		for (int i = 0;i < halfBufferSize;i++)
